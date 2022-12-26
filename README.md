@@ -1,4 +1,4 @@
-BOOTLOGO.BMP
+BOOTLOGO
 =====
 ![bootlogo](img/AMS1.4.0.png?raw=true)
 
