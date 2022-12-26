@@ -1,5 +1,5 @@
 
-![Banner](img/banner.png?raw=true)
+![Banner](img/bootlogo.png?raw=true)
 =====
 
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
