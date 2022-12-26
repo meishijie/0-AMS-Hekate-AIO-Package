@@ -1,6 +1,11 @@
-
-![开机图](img/AMS1.4.0.png?raw=true)
+LOGO
+![bootlogo](img/AMS1.4.0.png?raw=true)
 =====
-![系统引导](img/launch1.png?raw=true)
-![系统引导](img/launch2.png?raw=true)
+系统引导
+![Hekate](img/launch1.png?raw=true)
+![Hekate](img/launch2.png?raw=true)
+相册hbmenu
 ![hbmenu](img/hbmenu1.png?raw=true)
+![hbmenu](img/hbmenu2.png?raw=true)
+![hbmenu](img/hbmenu3.png?raw=true)
+![hbmenu](img/hbmenu4.png?raw=true)
